@@ -1,0 +1,11 @@
+name    'rsuela-discourse'
+version '0.1.0'
+source 'https://github.com/rsuela/discourse-installationvm-infratest'
+author 'rsuela'
+license 'Apache License, Version 2.0'
+summary 'puppet scripts for installation of discourse in Ubuntu 14'
+description 'puppet scripts for installation of discourse in Ubuntu 14'
+project_page 'https://github.com/rsuela/discourse-installationvm-infratest'
+
+## Add dependencies, if any:
+# dependency 'username/name', '>= 1.2.0'
